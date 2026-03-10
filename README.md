@@ -1,10 +1,10 @@
-# Olá! Eu sou o Edu Batista 🚀
+# Olá! Eu sou o Eduardo Batista 🚀
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia, lógica e por transformar ideias criativas em código. 
 
 ### 👨‍💻 Um pouco sobre mim
 
-- 🔭 Atualmente trabalhando no desenvolvimento da **Ficha PACTOS**.
+- 🔭 Atualmente trabalhando no desenvolvimento da **[Ficha PACTOS](https://fichapactosrpg.up.railway.app)**.
 - 🌱 Aprendendo e me aprofundando em **Banco de Dados (DB)** e **Java**.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/eduardo-batista-4b61272a2/)
 - 😄 Pronomes: Ele/Dele
@@ -32,8 +32,8 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia, lógica
 
 Uma Inteligência Artificial comparativa criada pela equipe **Hello World**, focada na otimização da gestão de processos industriais. A IA avalia a produção em tempo real utilizando modelos ideais presentes no banco de dados da empresa para detectar falhas. Ela sugere soluções, notifica os responsáveis e aprende continuamente a cada processo. Através da geração de logs detalhados, o FluxMind garante a segurança dos dados, a prevenção de erros humanos, a qualidade do produto e a máxima eficiência na indústria.
 
-#### 🎲 Plataforma PACTOS
-Uma aplicação web full-stack para gerenciamento de fichas de RPG. O sistema conta com um backend robusto em **Java** para processar a lógica do jogo e uma interface personalizada para o controle dinâmico de mecânicas e atributos específicos da ficha.
+#### 🎲 [Plataforma PACTOS](https://fichapactosrpg.up.railway.app)
+Uma aplicação web full-stack para gerenciamento de fichas de RPG. O sistema conta com um backend robusto em **Java** para processar a lógica do jogo e uma interface personalizada para o controle dinâmico de mecânicas e atributos específicos da ficha. **[Acesse e teste o projeto em funcionamento aqui!](https://fichapactosrpg.up.railway.app)**
 
 ---
 
