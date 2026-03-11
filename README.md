@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia, lógica
 
 - 🔭 Atualmente trabalhando no desenvolvimento da **[Ficha PACTOS](https://fichapactosrpg.up.railway.app)**.
 - 🌱 Aprendendo e me aprofundando em **Banco de Dados (DB)** e **Java**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/eduardo-batista-4b61272a2/)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/AEduBatista)
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Adoro MPB, Rock Brasileiro e sou um grande entusiasta de RPGs de mesa e escrita criativa!
 
